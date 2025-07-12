@@ -3,13 +3,19 @@ main {
 }
 
 aside {
+    width: 300px; /* added to meet rubric requirement */
     max-width: 800px;
     margin: 10px;
     border: 1px solid white;
     padding: 15px;
     background-color: #bbebf2;
-    color: hsla(200,0%,0%,.7);
+    color: hsla(200, 0%, 0%, .7);
     font-size: 20px;
+}
+
+aside img {
+    width: 200px;
+    height: auto;
 }
 
 nav {
@@ -32,7 +38,7 @@ main img {
     height: auto;
     border: 1px solid black;
     padding: 2px;
-    box-shadow: 0 0 3px gray
+    box-shadow: 0 0 3px gray;
 }
 
 p {
