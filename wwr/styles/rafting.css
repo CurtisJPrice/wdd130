@@ -15,8 +15,8 @@
   --paragraph-color-on-white: #960000; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #50527E; /* paragraph text on a colored background */ 
   --paragraph-background-color: #FFFFFF;
-  --nav-link-color: #FFFF00;
-  --nav-background-color: #FFFF00;
+  --nav-link-color: #000000;
+  --nav-background-color: #960000;
   --nav-hover-link-color: #50527E;
   --nav-hover-background-color: #000000;
 }
